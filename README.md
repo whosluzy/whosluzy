@@ -18,8 +18,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=whosluzy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosluzy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="280"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosluzy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="400"/>
 
 
 
