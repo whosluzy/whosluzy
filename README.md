@@ -12,10 +12,6 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=whosluzy&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-<br/>
-
 ---
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode&theme=dark&perline=5" />
