@@ -16,13 +16,6 @@
 
 <br/>
 
-### languages
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whosluzy&theme=github_dark&exclude=" width="300"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whosluzy&theme=github_dark" width="300"/>
-
-<br/>
-
 ### tools
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode&theme=dark&perline=5" />
