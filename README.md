@@ -18,11 +18,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosluzy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="400"/>
-
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=80&section=footer" width="100%"/>
 
 </div>
