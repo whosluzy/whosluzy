@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=280&section=header&text=Pokedex%20Master&fontSize=75&fontColor=ff4444&fontAlignY=60&animation=twinkling&&descSize=24&descAlignY=78&descColor=888888&stroke=ff2222&strokeWidth=2" width="100%"/>
+<img src="header.jpg" width="100%"/>
+
+<h1 style="margin-top:0">Pokedex Master</h1>
+<sub>whosluzy</sub>
 
 <br/>
 
