@@ -8,6 +8,10 @@
 
 <br/>
 
+[![Discord](https://img.shields.io/badge/Pokédex_Masters-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/servers/pokedex-masters-1323382166813675600)
+
+<br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=whosluzy&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 <br/>
