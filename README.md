@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1f2937,100:0d1117&height=220&section=header&text=whosluzy&fontSize=80&fontColor=58a6ff&fontAlignY=55&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d2137,100:0a0e1a&height=300&section=header&text=Pokedex%20Master&fontSize=70&fontColor=58a6ff&fontAlignY=50&animation=twinkling&desc=whosluzy&descSize=22&descAlignY=68&descColor=8b949e&stroke=58a6ff&strokeWidth=2" width="100%"/>
 
 <br/>
 
