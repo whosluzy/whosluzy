@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&lines=i+build+things.;sometimes+they+even+work.;%2F%2F+TODO%3A+sleep+more)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&lines=Pok%C3%A9mon+SysBot+Hobbyist;Switch+trade+bot+tinkerer;%2F%2F+always+one+merge+away+from+breaking+things)](https://git.io/typing-svg)
 
 <br/>
 
